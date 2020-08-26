@@ -38,14 +38,18 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ... a small excel maro to automate(serenium) sendind sms via google's massage for web
-- 🌱 I’m currently ... learning Vue
+<img align='right' src='https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/master/assets/webp/chilling%20mental%20health%20cat.webp' width='400"'>
+
+
+
+- 🔭 I’m currently working on ... this readme ofc
+- 🌱 I’m currently learning  ... new things ... i promise 
 - 👯 I’m looking to collaborate on ... anything hmu
-- 🤔 I’m looking for help with ... my oc becaise i deleted \System32
-- 💬 Ask me about ... mysteries of the niverse
-- 📫 How to reach me: ... click on the icon 😃
+- 🤔 I’m looking for help with ... my PC becaise i deleted \System32
+- 💬 Ask me about ... mysteries of the universe
+- 📫 How to reach me: ... sit infront of a mirron in a dark room and chant "bloody mary" three times 😃
 - 😄 Pronouns: ... he, senpai, master, whatever
-- ⚡ Fun fact: ... something good will happen to you only if you look for it ;)
+- ⚡ Fun fact: ... good things happen more when you look for them ;)
 
 
 
