@@ -10,30 +10,30 @@
 
 [comment]:![image](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2017/08/nature-design.jpg)
 
-<strong>
-  <pre align="center">                                                  
+
+ <pre align="center">                                                  
      _                         _                   
  _ _|_|___ ___ ___ ___ _ _ ___| |_ ___ _ _ ___ ___ 
 | | | |  _| -_|  _| . | | |_ -|   | .'| | | -_|  _|
  \_/|_|___|___|_| |___|_  |___|_|_|__,|_  |___|_|  
                       |___|           |___|        
-  </pre>
- </storng>
+ </pre>
+
 
 
 <h3>Hi there 👋 I am</h3>
 <h1>Mohammad Mustakim Hassan Shayer</h1>
 
 
-[<img align="left" alt="viceroyshayer | LinkedIn" width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="viceroyshayer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="viceroyshayer | Instagram" width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/instagram.svg" />][instagram]
+[<img align="left" alt="viceroyshayer | Instagram" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="viceroyshayer | Reddit" width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/reddit.svg" />][reddit]
+[<img align="left" alt="viceroyshayer | Reddit" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/reddit.svg" />][reddit]
 
-[<img align="left" alt="viceroyshayer | Twitter" width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/twitter.svg" />][twitter]
+[<img align="left" alt="viceroyshayer | Twitter" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="viceroyshayer | Medium" width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/medium.svg" />][medium]
+[<img align="left" alt="viceroyshayer | Medium" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/medium.svg" />][medium]
 
 <br>
 <br>
