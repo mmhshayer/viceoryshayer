@@ -25,15 +25,14 @@
 <h1>Mohammad Mustakim Hassan Shayer</h1>
 
 
-[<img align="left" alt="viceroyshayer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/linkedin.svg" />][linkedin]
+<p align="center">
+  <a href="https://www.linkedin.com/in/viceroyshayer/"><img width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/linkedin.svg" alt="viceroyshayer | LinkedIn"/></a>
+  <a href="https://www.instagram.com/viceroyshayer/"><img width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/instagram.svg" alt="viceroyshayer | Instagram"/></a>
+  <a href="https://www.reddit.com/user/ViceRoyShayer"><img width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/reddit.svg" alt="viceroyshayer | Reddit"/></a>
+  <a href="https://twitter.com/viceroyshayer"><img width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/twitter.svg" alt="viceroyshayer | Twitter"/></a>
+  <a href="https://medium.com/@viceroyshayer"><img width="22px" src="https://github.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/medium.svg" alt="viceroyshayer | Medium"/></a>
+</p>
 
-[<img align="left" alt="viceroyshayer | Instagram" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="viceroyshayer | Reddit" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/reddit.svg" />][reddit]
-
-[<img align="left" alt="viceroyshayer | Twitter" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="viceroyshayer | Medium" width="22px" src="https://raw.githubusercontent.com/viceroyshayer/viceroyshayer/blob/master/assets/icons/medium.svg" />][medium]
 
 <br>
 <br>
